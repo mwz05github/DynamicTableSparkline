@@ -1,0 +1,9 @@
+{
+	"name" : "Dynamic table sparkline",
+	"description" : "Table with dynamic sort and sparklines",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "icon.png",
+	"author": "William Ma"
+}
